@@ -181,12 +181,7 @@ This code represents part of the low-level embedded development work associated 
 PowerSupply/
 ├── 3d models/
 │   └── source/
-│       └── FreeCAD enclosure model
-│
-├── app/
-│   └── firmware/
-│       └── STM32F103 low-level firmware
-│
+│       └── Блок питания.FCStd
 ├── README.md
 └── README_RU.md
 ```
