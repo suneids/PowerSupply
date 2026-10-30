@@ -159,21 +159,6 @@ The mechanical design integrates the AC-DC source, DC-DC stages and external out
 
 ---
 
-## 🔧 Embedded / Low-Level Code
-
-The repository also contains early low-level STM32F103 firmware components written using direct register access.
-
-Implemented modules include:
-
-- GPIO;
-- USART;
-- timers;
-- PWM;
-- EXTI.
-
-This code represents part of the low-level embedded development work associated with the project and predates the larger reusable STM32 driver library used in later projects.
-
----
 
 ## 📁 Repository Structure
 
