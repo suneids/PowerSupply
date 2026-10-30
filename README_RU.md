@@ -181,12 +181,7 @@ Mean Well выполняет роль центрального силового 
 PowerSupply/
 ├── 3d models/
 │   └── source/
-│       └── модель корпуса FreeCAD
-│
-├── app/
-│   └── firmware/
-│       └── низкоуровневый код STM32F103
-│
+│       └── Блок питания.FCStd
 ├── README.md
 └── README_RU.md
 ```
